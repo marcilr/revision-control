@@ -1,0 +1,43 @@
+# manifest
+# Created Fri Jun 10 10:17:18 AKDT 2016
+# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest for resync application
+#
+# To my knowledge GitHub does not support hierarchical repositories outside
+# of perhaps git submodules.  However, submodules are not so good so I've
+# implemented hierarchical repositories using repo names and this manifest.
+#
+# The dashes in the repo names represent directory separation.  There are
+# some repos like svn-to-git/ that have acutally dashes in the repo name.
+# Have not escaped these dashes in any way.   Might do this at some point.
+#
+
+# =====================================================================
+# =====================================================================
+#
+# Public GitHub repositories
+#
+# =====================================================================
+# =====================================================================
+
+# GitHub
+ssh://git@github.com/marcilr/git-github                                   github
+ssh://git@github.com/marcilr/git-github-00INSTALL                         github/00INSTALL
+ssh://git@github.com/marcilr/git-github-remotes                           github/remotes
+ssh://git@github.com/marcilr/git-github-remotes-syntax                    github/remotes/syntax
+ssh://git@github.com/marcilr/git-github-syntax                            github/syntax
+ssh://git@github.com/marcilr/git-github-test                              github/test
+
+# GitLab
+ssh://git@github.com/marcilr/git-gitlab                                   gitlab
+ssh://git@github.com/marcilr/git-gitlab-src                               gitlab/src
+ssh://git@github.com/marcilr/git-gitlab-syntax                            gitlab/syntax
+
+#
+# repo - Google's revision-control
+#
+ssh://git@github.com/marcilr/git-repo                                     repo
+ssh://git@github.com/marcilr/git-repo-00INSTALL                           repo/00INSTALL
+ssh://git@github.com/marcilr/git-repo-manifest                            repo/manifest
+ssh://git@github.com/marcilr/git-repo-syntax                              repo/syntax
