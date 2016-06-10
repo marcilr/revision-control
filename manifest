@@ -22,22 +22,23 @@
 # =====================================================================
 
 # GitHub
-ssh://git@github.com/marcilr/git-github                                   github
-ssh://git@github.com/marcilr/git-github-00INSTALL                         github/00INSTALL
-ssh://git@github.com/marcilr/git-github-remotes                           github/remotes
-ssh://git@github.com/marcilr/git-github-remotes-syntax                    github/remotes/syntax
-ssh://git@github.com/marcilr/git-github-syntax                            github/syntax
-ssh://git@github.com/marcilr/git-github-test                              github/test
+ssh://git@github.com/marcilr/git-revision-control-github                  github
+ssh://git@github.com/marcilr/git-revision-control-github-00INSTALL        github/00INSTALL
+ssh://git@github.com/marcilr/git-revision-control-github-remotes          github/remotes
+ssh://git@github.com/marcilr/git-revision-control-github-remotes-syntax   github/remotes/syntax
+ssh://git@github.com/marcilr/git-revision-control-github-syntax           github/syntax
+ssh://git@github.com/marcilr/git-revision-control-github-syntax-cli       github/syntax/cli
+ssh://git@github.com/marcilr/git-revision-control-github-test             github/test
 
 # GitLab
-ssh://git@github.com/marcilr/git-gitlab                                   gitlab
-ssh://git@github.com/marcilr/git-gitlab-src                               gitlab/src
-ssh://git@github.com/marcilr/git-gitlab-syntax                            gitlab/syntax
+ssh://git@github.com/marcilr/git-revision-control-gitlab                  gitlab
+ssh://git@github.com/marcilr/git-revision-control-gitlab-src              gitlab/src
+ssh://git@github.com/marcilr/git-revision-control-gitlab-syntax           gitlab/syntax
 
 #
 # repo - Google's revision-control
 #
-ssh://git@github.com/marcilr/git-repo                                     repo
-ssh://git@github.com/marcilr/git-repo-00INSTALL                           repo/00INSTALL
-ssh://git@github.com/marcilr/git-repo-manifest                            repo/manifest
-ssh://git@github.com/marcilr/git-repo-syntax                              repo/syntax
+ssh://git@github.com/marcilr/git-revision-control-repo                    repo
+ssh://git@github.com/marcilr/git-revision-control-repo-00INSTALL          repo/00INSTALL
+ssh://git@github.com/marcilr/git-revision-control-repo-manifest           repo/manifest
+ssh://git@github.com/marcilr/git-revision-control-repo-syntax             repo/syntax
