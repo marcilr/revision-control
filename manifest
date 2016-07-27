@@ -41,4 +41,4 @@ ssh://git@github.com/marcilr/git-revision-control-gitlab-syntax           gitlab
 ssh://git@github.com/marcilr/git-revision-control-repo                    repo
 ssh://git@github.com/marcilr/git-revision-control-repo-00INSTALL          repo/00INSTALL
 ssh://git@github.com/marcilr/git-revision-control-repo-manifest           repo/manifest
-ssh://git@github.com/marcilr/git-revision-control-repo-syntax             repo/syntax
+#ssh://git@github.com/marcilr/git-revision-control-repo-syntax             repo/syntax
