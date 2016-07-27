@@ -25,7 +25,7 @@
 ssh://git@github.com/marcilr/git-revision-control-github                  github
 ssh://git@github.com/marcilr/git-revision-control-github-00INSTALL        github/00INSTALL
 ssh://git@github.com/marcilr/git-revision-control-github-remotes          github/remotes
-ssh://git@github.com/marcilr/git-revision-control-github-remotes-syntax   github/remotes/syntax
+#ssh://git@github.com/marcilr/git-revision-control-github-remotes-syntax   github/remotes/syntax
 ssh://git@github.com/marcilr/git-revision-control-github-syntax           github/syntax
 ssh://git@github.com/marcilr/git-revision-control-github-syntax-cli       github/syntax/cli
 ssh://git@github.com/marcilr/git-revision-control-github-test             github/test
