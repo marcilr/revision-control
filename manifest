@@ -22,13 +22,7 @@
 # =====================================================================
 
 # GitHub
-ssh://git@github.com/marcilr/revision-control-github                  github
-ssh://git@github.com/marcilr/revision-control-github-00INSTALL        github/00INSTALL
-ssh://git@github.com/marcilr/revision-control-github-remotes          github/remotes
-#ssh://git@github.com/marcilr/revision-control-github-remotes-syntax   github/remotes/syntax
-ssh://git@github.com/marcilr/revision-control-github-syntax           github/syntax
-ssh://git@github.com/marcilr/revision-control-github-syntax-cli       github/syntax/cli
-ssh://git@github.com/marcilr/revision-control-github-test             github/test
+ssh://git@github.com/marcilr/github                                   github
 
 # GitLab
 ssh://git@github.com/marcilr/revision-control-gitlab                  gitlab
