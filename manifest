@@ -21,11 +21,14 @@
 # =====================================================================
 # =====================================================================
 
+# Git
+ssh://git@github.com/marcilr/git      git
+
 # GitHub
-ssh://git@github.com/marcilr/github                                   github
+ssh://git@github.com/marcilr/github   github
 
 # GitLab
-ssh://git@github.com/marcilr/gitlab                                   gitlab
+ssh://git@github.com/marcilr/gitlab   gitlab
 
 # repo - Google's revision-control
-ssh://git@github.com/marcilr/repo                                     repo
+ssh://git@github.com/marcilr/repo     repo
