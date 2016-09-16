@@ -25,9 +25,7 @@
 ssh://git@github.com/marcilr/github                                   github
 
 # GitLab
-ssh://git@github.com/marcilr/revision-control-gitlab                  gitlab
-ssh://git@github.com/marcilr/revision-control-gitlab-src              gitlab/src
-ssh://git@github.com/marcilr/revision-control-gitlab-syntax           gitlab/syntax
+ssh://git@github.com/marcilr/gitlab                                   gitlab
 
 #
 # repo - Google's revision-control
