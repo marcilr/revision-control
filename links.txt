@@ -10,8 +10,8 @@ Links
 =====
 GUI for GIT similar to SourceTree
 Unix and Linux
-1st GitEye
+1st GitEye     <=== Eclipse based
 2nd SmartGit
 3rd QGit
-Honorable mention: GitKraken
+Honorable mention: GitKraken  <=== No the prettiest
 http://unix.stackexchange.com/questions/48469/gui-for-git-similar-to-sourcetree
