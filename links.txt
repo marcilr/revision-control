@@ -1,0 +1,17 @@
+links.txt
+Created Fri Jan  6 14:00:49 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Revision control related links
+
+
+Links
+=====
+GUI for GIT similar to SourceTree
+Unix and Linux
+1st GitEye
+2nd SmartGit
+3rd QGit
+Honorable mention: GitKraken
+http://unix.stackexchange.com/questions/48469/gui-for-git-similar-to-sourcetree
