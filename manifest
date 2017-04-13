@@ -31,9 +31,6 @@ ssh://htpc/data/git/revision-control/perforce   perforce
 # =====================================================================
 # =====================================================================
 
-# Git
-ssh://git@github.com/marcilr/git      git
-
 # GitHub
 ssh://git@github.com/marcilr/github   github
 
