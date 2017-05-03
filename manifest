@@ -35,7 +35,7 @@ ssh://htpc/data/git/revision-control/perforce   perforce
 ssh://git@github.com/marcilr/bitbucket   bitbucket
 
 # git-svn wrapper to convert subversion repository to git
-ssh://htpc/data/git/convert   convert
+ssh://htpc/data/git/revision-control/convert   convert
 
 # GitHub
 ssh://git@github.com/marcilr/github   github
