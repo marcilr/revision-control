@@ -21,6 +21,8 @@
 # =====================================================================
 # =====================================================================
 ssh://htpc/data/git/revision-control/perforce   perforce
+ssh://htpc/data/git/revision-control/svn   svn
+ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
 
 
 # =====================================================================
