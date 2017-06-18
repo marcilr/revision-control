@@ -1,0 +1,35 @@
+bitbucket-vs-github.txt
+Created Mon Nov 24 15:18:43 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Bitbucket vs. Github
+
+
+For cost alone BitBucket is the winning.   No fee per repo.
+
+Bitbucket - Host your code online in as many public and private repositories
+as you want.  Free for 5 users.
+
+
+Bitbucket pricing
+=================
+Number of contributors   0-5    6-10   11-25   26-50   51-100   > 100
+Price                    free   $10    $25     $50     $100     $200
+
+
+GitHub pricing
+==============
+Number of repositories   0-10   11-20   21-50   50-125
+Price                    $25    $50     $100    $200
+
+
+infoworld.com/article/2611771/
+
+
+Links
+=====
+Bitbucket vs. GitHub: Which project host has the most?
+The right choice boils down to a number of factors --
+you might even consider using both
+http://www.infoworld.com/article/2611771/application-development/bitbucket-vs--github--which-project-host-has-the-most-.html?page=2
