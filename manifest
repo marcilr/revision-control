@@ -38,7 +38,8 @@ ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
 # =====================================================================
 # =====================================================================
 #
-# Public Bitbucket, GitHub, GitLab, and Google repositories
+# Public Repositories:
+#   Bitbucket, GitHub, GitLab, and Google
 #
 # =====================================================================
 # =====================================================================
