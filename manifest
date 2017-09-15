@@ -37,6 +37,13 @@ ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
 ssh://git@github.com/marcilr/bitbucket   bitbucket
 
 # git-svn wrapper to convert subversion repository to git
+
+# =====================================================================
+#
+# Convert - subversion to git
+# git-svn wrapper to convert subversion repository to git
+#
+# =====================================================================
 ssh://htpc/data/git/revision-control/convert   convert
 
 # GitHub
