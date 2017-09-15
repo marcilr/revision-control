@@ -20,23 +20,7 @@
 #
 # =====================================================================
 # =====================================================================
-ssh://htpc/data/git/revision-control/perforce   perforce
-ssh://htpc/data/git/revision-control/svn   svn
-ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
 
-
-# =====================================================================
-# =====================================================================
-#
-# Public GitHub repositories
-#
-# =====================================================================
-# =====================================================================
-
-# Bitbucket
-ssh://git@github.com/marcilr/bitbucket   bitbucket
-
-# git-svn wrapper to convert subversion repository to git
 
 # =====================================================================
 #
@@ -44,13 +28,21 @@ ssh://git@github.com/marcilr/bitbucket   bitbucket
 # git-svn wrapper to convert subversion repository to git
 #
 # =====================================================================
-ssh://htpc/data/git/revision-control/convert   convert
+ssh://htpc/data/git/revision-control/convert      convert
 
-# GitHub
-ssh://git@github.com/marcilr/github   github
+ssh://htpc/data/git/revision-control/perforce     perforce
+ssh://htpc/data/git/revision-control/svn          svn
+ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
 
-# GitLab
-ssh://git@github.com/marcilr/gitlab   gitlab
 
-# repo - Google's revision-control
-ssh://git@github.com/marcilr/repo   repo
+# =====================================================================
+# =====================================================================
+#
+# Public Bitbucket, GitHub, GitLab, and Google repositories
+#
+# =====================================================================
+# =====================================================================
+ssh://git@github.com/marcilr/bitbucket   bitbucket
+ssh://git@github.com/marcilr/github      github
+ssh://git@github.com/marcilr/gitlab      gitlab
+ssh://git@github.com/marcilr/repo        repo
