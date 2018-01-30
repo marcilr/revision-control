@@ -13,5 +13,11 @@ Unix and Linux
 1st GitEye     <=== Eclipse based
 2nd SmartGit
 3rd QGit
-Honorable mention: GitKraken  <=== No the prettiest
+Honorable mention: GitKraken  <=== Not the prettiest
 http://unix.stackexchange.com/questions/48469/gui-for-git-similar-to-sourcetree
+
+On undoing, fixing, or removing commits in git
+A git choose-your-own-adventure!
+Nice page of git syntax.
+https://sethrobertson.github.io/GitFixUm/fixup.html
+
