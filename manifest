@@ -31,6 +31,7 @@
 ssh://htpc/data/git/revision-control/convert      convert
 
 ssh://htpc/data/git/revision-control/perforce     perforce
+ssh://git@github.com/marcilr/resync.git           resync
 ssh://htpc/data/git/revision-control/svn          svn
 ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
 
