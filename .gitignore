@@ -6,6 +6,7 @@
 #
 .gitignore
 bitbucket/
+git/
 github/
 gitlab/
 repo/
