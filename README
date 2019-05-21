@@ -8,6 +8,9 @@ Filelist
 bitbucket-vs-github.txt
   Bitbucket vs. Github
 
+docs/
+  Documentation
+
 manifest
   Manifest for resync application  
 
