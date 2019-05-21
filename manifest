@@ -13,13 +13,13 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 ssh://git@github.com/marcilr/bitbucket              bitbucket
-ssh://htpc/data/git/revision-control/convert        convert
+#ssh://htpc/data/git/revision-control/convert        convert
 ssh://git@github.com/marcilr/git-revision-control   git
 ssh://git@github.com/marcilr/github                 github
 ssh://git@github.com/marcilr/gitlab                 gitlab
-ssh://htpc/data/git/revision-control/perforce       perforce
+#ssh://htpc/data/git/revision-control/perforce       perforce
 ssh://git@github.com/marcilr/repo                   repo
 ssh://git@github.com/marcilr/resync.git             resync
-ssh://htpc/data/git/revision-control/svn            svn
-ssh://htpc/data/git/revision-control/svn-to-git     svn-to-git
+#ssh://htpc/data/git/revision-control/svn            svn
+#ssh://htpc/data/git/revision-control/svn-to-git     svn-to-git
 #ssh://dnratwtfsp:22/Sandboxes/_git/tfs              tfs
