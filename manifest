@@ -11,50 +11,14 @@
 # The dashes in the repo names represent directory separation.  There are
 # some repos like svn-to-git/ that have acutally dashes in the repo name.
 # Have not escaped these dashes in any way.   Might do this at some point.
-
-
-# =====================================================================
-# =====================================================================
 #
-# Private repositories
-#
-# =====================================================================
-# =====================================================================
-
-
-# =====================================================================
-#
-# Convert - subversion to git
-# git-svn wrapper to convert subversion repository to git
-#
-# =====================================================================
+ssh://git@github.com/marcilr/bitbucket            bitbucket
 ssh://htpc/data/git/revision-control/convert      convert
-
+ssh://git@github.com/marcilr/github               github
+ssh://git@github.com/marcilr/gitlab               gitlab
 ssh://htpc/data/git/revision-control/perforce     perforce
+ssh://git@github.com/marcilr/repo                 repo
 ssh://git@github.com/marcilr/resync.git           resync
 ssh://htpc/data/git/revision-control/svn          svn
 ssh://htpc/data/git/revision-control/svn-to-git   svn-to-git
-
-
-# =====================================================================
-# =====================================================================
-#
-# Revision control systems
-#
-# =====================================================================
-# =====================================================================
-ssh://dnratwtfsp:22/Sandboxes/_git/tfs   tfs
-
-
-# =====================================================================
-# =====================================================================
-#
-# Public Repositories:
-#   Bitbucket, GitHub, GitLab, and Google
-#
-# =====================================================================
-# =====================================================================
-ssh://git@github.com/marcilr/bitbucket   bitbucket
-ssh://git@github.com/marcilr/github      github
-ssh://git@github.com/marcilr/gitlab      gitlab
-ssh://git@github.com/marcilr/repo        repo
+#ssh://dnratwtfsp:22/Sandboxes/_git/tfs            tfs
