@@ -20,6 +20,5 @@ ssh://git@github.com/marcilr/gitlab                 gitlab
 #ssh://htpc/data/git/revision-control/perforce       perforce
 ssh://git@github.com/marcilr/repo                   repo
 ssh://git@github.com/marcilr/resync.git             resync
-#ssh://htpc/data/git/revision-control/svn            svn
-#ssh://htpc/data/git/revision-control/svn-to-git     svn-to-git
+ssh://git@github.com/marcilr/svn.git                svn
 #ssh://dnratwtfsp:22/Sandboxes/_git/tfs              tfs
