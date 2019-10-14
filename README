@@ -11,6 +11,10 @@ bitbucket-vs-github.txt
 docs/
   Documentation
 
+gitkraken/
+  GitKraken revinsion control client for windows
+  ssh://git@github.com/marcilr/gitkraken.git
+
 manifest
   Manifest for resync application  
 
