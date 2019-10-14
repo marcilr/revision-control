@@ -12,13 +12,14 @@
 # some repos like svn-to-git/ that have acutally dashes in the repo name.
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
-ssh://git@github.com/marcilr/bitbucket              bitbucket
-#ssh://htpc/data/git/revision-control/convert        convert
-ssh://git@github.com/marcilr/git-revision-control   git
-ssh://git@github.com/marcilr/github                 github
-ssh://git@github.com/marcilr/gitlab                 gitlab
-#ssh://htpc/data/git/revision-control/perforce       perforce
-ssh://git@github.com/marcilr/repo                   repo
-ssh://git@github.com/marcilr/resync.git             resync
-ssh://git@github.com/marcilr/svn.git                svn
-#ssh://dnratwtfsp:22/Sandboxes/_git/tfs              tfs
+ssh://git@github.com/marcilr/bitbucket.git              bitbucket
+#ssh://htpc/data/git/revision-control/convert.git        convert
+ssh://git@github.com/marcilr/git-revision-control.git   git
+ssh://git@github.com/marcilr/github.git                 github
+ssh://git@github.com:marcilr/gitkraken.git              gitkraken
+ssh://git@github.com/marcilr/gitlab.git                 gitlab
+#ssh://htpc/data/git/revision-control/perforce.git       perforce
+ssh://git@github.com/marcilr/repo.git                   repo
+ssh://git@github.com/marcilr/resync.git                 resync
+ssh://git@github.com/marcilr/svn.git                    svn
+#ssh://dnratwtfsp:22/Sandboxes/_git/tfs.git             tfs
