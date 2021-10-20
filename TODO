@@ -3,7 +3,37 @@ Created Mon Jun  3 10:24:45 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-+++ Mon Jun  3 10:24:45 AKDT 2019 - Add to svn links:
++++ Wed 20 Oct 2021 09:21:11 AM AKDT - The resync script I had written 
+on Fri Jan 15, 2016 is throwing a public key error:
+
+$ cd ~/git
+$ /home/marcilr/bin/resync
+...
+Please make sure you have the correct access rights
+and the repository exists.
+process_manifest() updated retirement repo
+process_manifest() src repo: ssh://git@github.com/marcilr/revision-control.git
+process_manifest() tar repo: revision-control
+process_manifest() revision-control repo found, updating...
+process_manifest() executing: git -C revision-control
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+...
+Please make sure you have the correct access rights
+and the repository exists.
+process_manifest() updated xfce repo
+$
+
+Definetely need to configured the gtihub public on malachite.
+
+
+x Wed 20 Oct 2021 09:14:47 AM AKDT - Old and deprecated.
+Never completed now using:
+  git --fast version control
+      --distributed-even-if-your-workflow-isnt
+  https://git-scm.com/
+
+Mon Jun  3 10:24:45 AKDT 2019 - Add to svn links:
 svn list (ls) — List directory entries in the repository.
 svn Subcommands
 http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.list.html
