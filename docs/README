@@ -7,3 +7,6 @@ Filelist
 ========
 bitbucket-vs-github.txt
   Bitbucket vs. Github
+
+configure-public-key-access.txt
+  Configure public key access to github for resync script.
