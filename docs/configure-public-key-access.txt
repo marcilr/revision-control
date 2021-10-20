@@ -1,0 +1,34 @@
+configure-public-key-access.txt
+Created Wed 20 Oct 2021 09:30:53 AM AKDT
+Copyright (C) 2021 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Configure public key access to github for resync script.
+
+
+Wed 20 Oct 2021 09:30:53 AM AKDT
+================================
+The resync script I had written on Fri Jan 15, 2016 is throwing 
+a public key error:
+
+$ cd ~/git
+$ /home/marcilr/bin/resync
+...
+Please make sure you have the correct access rights
+and the repository exists.
+process_manifest() updated retirement repo
+process_manifest() src repo: ssh://git@github.com/marcilr/revision-control.git
+process_manifest() tar repo: revision-control
+process_manifest() revision-control repo found, updating...
+process_manifest() executing: git -C revision-control
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+...
+Please make sure you have the correct access rights
+and the repository exists.
+process_manifest() updated xfce repo
+$
+
+Definetely need to reconfigur the github public on malachite
+for the resync script.
