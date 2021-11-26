@@ -3,6 +3,7 @@ Created Mon Jun  3 10:24:45 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+
 +++ Wed 20 Oct 2021 09:21:11 AM AKDT - The resync script I had written 
 on Fri Jan 15, 2016 is throwing a public key error:
 
@@ -24,7 +25,7 @@ and the repository exists.
 process_manifest() updated xfce repo
 $
 
-Definetely need to configured the gtihub public on malachite.
+Definetely need to configured the github public on malachite.
 
 
 x Wed 20 Oct 2021 09:14:47 AM AKDT - Old and deprecated.
