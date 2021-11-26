@@ -11,6 +11,10 @@ bitbucket-vs-github.txt
 docs/
   Documentation
 
+github_PRIOR_20211126
+  This repo has a crypto-keys.txt file that should not be posted
+  to a public repo.
+
 gitkraken/
   GitKraken revinsion control client for windows
   ssh://git@github.com/marcilr/gitkraken.git
