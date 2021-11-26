@@ -6,6 +6,12 @@ Copyright (C) 2021 by Raymond E. Marcil <marcilr@gmail.com>
 
 Configure public key access to github for resync script.
 
+1. Open web browser to github:
+https://github.com/
+
+2. Login to github:
+marcilr@gmail.com/***
+
 
 Wed 20 Oct 2021 09:30:53 AM AKDT
 ================================
