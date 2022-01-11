@@ -1,14 +1,8 @@
 #.gitignore
-# Created Fri Dec 14 14:00:15 AST 2018
+# Created Tue 11 Jan 2022 12:50:17 PM AKST
 # by Raymond E. Marcil <marcilr@gmail.com>
 #
-# Files for git to ignore.
+# Files for git to ignore
 #
 .gitignore
-bitbucket/
-git/
-github/
-gitlab/
-repo/
-resync/
-tfs/
+svn/
