@@ -5,4 +5,12 @@
 # Files for git to ignore
 #
 .gitignore
+bitbucket/
+git/
+github/
+# github_PRIOR_20211126/
+gitkraken/
+gitlab/
+repo/
+resync/
 svn/
