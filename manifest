@@ -14,7 +14,7 @@
 #
 ssh://git@github.com/marcilr/bitbucket.git              bitbucket
 #ssh://htpc/data/git/revision-control/convert.git        convert
-ssh://git@github.com/marcilr/git-revision-control.git   git
+#ssh://git@github.com/marcilr/git-revision-control.git   git
 ssh://git@github.com/marcilr/github.git                 github
 ssh://git@github.com/marcilr/gitkraken.git              gitkraken
 ssh://git@github.com/marcilr/gitlab.git                 gitlab
